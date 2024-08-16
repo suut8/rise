@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Tough operation include professional head cell.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
