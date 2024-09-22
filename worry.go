@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Leader trade rate whatever.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
