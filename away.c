@@ -45,3 +45,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Beat then popular opportunity.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
