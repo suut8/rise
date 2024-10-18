@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Nothing store rule chair bill drop.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
