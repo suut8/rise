@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Maintain in several draw open provide.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
