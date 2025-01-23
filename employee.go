@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Store news increase activity budget cut protect.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
