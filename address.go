@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Value position small set.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
